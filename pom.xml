@@ -14,7 +14,7 @@
 			<artifactId>maven-compiler-plugin</artifactId>
 			<version>3.3</version>
 			<configuration>
-                <fork>true</fork
+				<fork>true</fork>
                 <executable>E:\java\bin\javac.exe</executable>
             </configuration>
 		</plugin>
